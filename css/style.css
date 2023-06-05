@@ -1,15 +1,21 @@
-.testHello {
+.nav_bar {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(231, 227, 221);
+    text-align: center;
+}
+.main_body {
 
-color: green;
-text-align: center;
-background-color: aqua;
-
+    background-color: rgb(156, 94, 94);
+    text-align: center;
 }
 
+.test {
 
+    margin-top: 125%;
+    margin-bottom: 25%;
+}
 
+.testLogo {
 
-
-
-
-
+    border-radius: 35%;
+}
