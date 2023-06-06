@@ -1,5 +1,9 @@
-.nav_bar {
+.shadow {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.nav_bar {
+   
     background-color: rgb(231, 227, 221);
     text-align: center;
 }
@@ -18,4 +22,20 @@
 .testLogo {
 
     border-radius: 35%;
+}
+
+.testFooter {
+
+    background-color: blueviolet;
+    text-align: center;
+
+}
+
+.testFoterke {
+
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+    text-align: center;
+
 }
