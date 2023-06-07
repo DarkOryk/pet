@@ -1,15 +1,31 @@
+body {
+    background-color: #ccd5ae;
+}
+
 .shadow {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.testtop {
+    background-color: #d4a373;
+}
 .nav_bar {
    
-    background-color: rgb(231, 227, 221);
+    background-color: #faedcd;
     text-align: center;
 }
+
+.nav_buttons {
+
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+
+}
+
 .main_body {
 
-    background-color: rgb(156, 94, 94);
+    background-color: #fefae0;
     text-align: center;
 }
 
@@ -22,11 +38,12 @@
 .testLogo {
 
     border-radius: 35%;
+    
 }
 
 .testFooter {
 
-    background-color: blueviolet;
+    background-color: #d4a373;
     text-align: center;
 
 }
