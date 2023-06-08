@@ -1,61 +1,50 @@
+/* GLOBAL STYLE */
 body {
-    
     background-color: #ccd5ae;
 }
 
 .shadow {
-
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.testtop {
-
+/* HEADER and NAV */
+.headerstl {
     background-color: #d4a373;
 }
-.nav_bar {
 
-    background-color: #faedcd;
-    text-align: center;
+.Logo {
+    border-radius: 35%;
 }
+
+.nav_bar {
+    background-color: #faedcd;
+
+}
+
+/* BUTTONS*/
 
 .nav_buttons {
-
     margin-top: 1rem;
     margin-bottom: 1rem;
-
+    width: 100%;
 
 }
 
-.main_body {
+.nav_main_page_btn {
+    background-color: #d4a373;
+    width: 100%;
+}
 
+/* MAIN */
+
+.main_body {
     background-color: #fefae0;
     text-align: center;
 }
 
-.test {
-
-    margin-top: 125%;
-    margin-bottom: 25%;
-}
-
-.testLogo {
-
-    border-radius: 35%;
-    
-}
+/* FOOTER */
 
 .testFooter {
-
     background-color: #d4a373;
     text-align: center;
-
-}
-
-.testFoterke {
-
-    margin-top: 2%;
-    margin-bottom: 2%;
-
-    text-align: center;
-
 }
