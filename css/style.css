@@ -8,8 +8,10 @@ body {
 }
 
 /* HEADER and NAV */
-.headerstl {
+
+.nav_style {
     background-color: #d4a373;
+
 }
 
 .Logo {
@@ -18,7 +20,6 @@ body {
 
 .nav_bar {
     background-color: #faedcd;
-
 }
 
 /* BUTTONS*/
@@ -26,8 +27,6 @@ body {
 .nav_buttons {
     margin-top: 1rem;
     margin-bottom: 1rem;
-    width: 100%;
-
 }
 
 .nav_main_page_btn {
@@ -47,4 +46,19 @@ body {
 .testFooter {
     background-color: #d4a373;
     text-align: center;
+}
+
+.stick {
+    position: sticky;
+    top: 0;
+}
+
+
+/* Small devices (tablets, 767px and up) */
+@media (max-width: 767px) { 
+
+    .textLogo {
+        color: #ccd5ae;
+        display:none;
+    }
 }
